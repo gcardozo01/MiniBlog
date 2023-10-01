@@ -1,0 +1,16 @@
+.about {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.about p {
+  color: #aaa;
+}
+
+.about a {
+  display: block;
+  margin-top: 15px;
+  padding: 10px 15px;
+}
